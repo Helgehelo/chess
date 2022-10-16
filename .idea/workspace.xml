@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f700635-9419-4d84-997f-3823fcca25bc" name="Default Changelist" comment="" />
+    <list default="true" id="5f700635-9419-4d84-997f-3823fcca25bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/readme.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/readme.rst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +51,22 @@
       <workItem from="1665326401535" duration="4946000" />
       <workItem from="1665405219061" duration="1180000" />
       <workItem from="1665872560320" duration="345000" />
+      <workItem from="1665920511964" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -3,7 +3,8 @@
 __author__ = "Helge Helø Klemetsdal"
 __email__ = "helge.helo@gmail.com"
 
-from pieces.py import Pawn,Rook,Bishop,Knight,King,Queen
+#from pieces.py import Pawn,Rook,Bishop,Knight,King,Queen
+#
 
 class Board:
     """ Class for the chessboard which should contain the pieces, and
@@ -42,8 +43,8 @@ class Board:
         board_cordinates = {value:index+1 for index, value in enumerate(
             letter_coordinates)}
 
-        board =
-        return board
+ #       board =
+        return 
     @classmethod
     def set_fisher_random_board(cls):
      """
