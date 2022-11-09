@@ -32,3 +32,25 @@ class Piece:
 
 
 
+class Pawn(Piece):
+    def __init__(self):
+        super().__init__()
+
+    def possible_moves(self,coordinate):
+        """
+
+        Returns
+        -------
+        possible_moves: list
+            The possible moves of the pawn piece given
+            its coordinates.
+        """
+
+
+
+
+
+
+
+
+
